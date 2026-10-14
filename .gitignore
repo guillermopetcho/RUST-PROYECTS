@@ -1,0 +1,11 @@
+/target
+target/
+**/target/
+*.wav
+*.mp3
+*.mp4
+*.m4a
+*.flac
+*.ogg
+mopet_plan.json
+plan_demostracion.json
